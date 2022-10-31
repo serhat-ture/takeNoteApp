@@ -1,0 +1,2 @@
+rootProject.name = "takeNotes"
+include ':app'
