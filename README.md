@@ -1,6 +1,6 @@
 # Easy Take Notes
 
-Simple notes app using Realm Database
+Simple notes app 
 - Add notes
 - List notes
 - Delete notes
